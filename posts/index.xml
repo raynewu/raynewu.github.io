@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Aug 2023 00:57:28 +0800</lastBuildDate><atom:link href="https://raynewu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Dec 2023 01:14:00 +0800</lastBuildDate><atom:link href="https://raynewu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新站開張</title>
+      <link>https://raynewu.github.io/posts/the-opening-of-new-website/</link>
+      <pubDate>Sun, 24 Dec 2023 01:14:00 +0800</pubDate>
+      
+      <guid>https://raynewu.github.io/posts/the-opening-of-new-website/</guid>
+      <description>我的部落格再次開張啦</description>
+    </item>
+    
     <item>
       <title>Second Post</title>
       <link>https://raynewu.github.io/posts/second-post/</link>
@@ -23,7 +32,7 @@
     <item>
       <title>Rayne的第一篇文章</title>
       <link>https://raynewu.github.io/posts/firstpost/</link>
-      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0800</pubDate>
       
       <guid>https://raynewu.github.io/posts/firstpost/</guid>
       <description>A brief description of Hugo Shortcodes</description>
