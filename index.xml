@@ -18,7 +18,8 @@
       <link>https://raynewu.github.io/posts/date-test/</link>
       <pubDate>Sun, 24 Dec 2023 11:15:46 +0800</pubDate>
       <guid>https://raynewu.github.io/posts/date-test/</guid>
-      <description>時間日期範本，使用Hugo 0.121.1產生。</description>
+      <description>時間日期範本，使用Hugo 0.121.1產生。
+flowchart LR a --&amp;gt; b &amp;amp; c --&amp;gt; d </description>
     </item>
     <item>
       <title>新站開張</title>
