@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Dec 2023 11:15:46 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 14:45:00 +0800</lastBuildDate>
     <atom:link href="https://raynewu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DotNet 筆記</title>
+      <link>https://raynewu.github.io/posts/dotnet-note/</link>
+      <pubDate>Sun, 24 Mar 2024 14:45:00 +0800</pubDate>
+      <guid>https://raynewu.github.io/posts/dotnet-note/</guid>
+      <description>查詢目前使用的SDK版本
+1 dotnet --version 顯示 .NET 詳細資訊
+1 dotnet --info 查詢電腦安裝哪些Dotnet SDK版本, 顯示所有SDKs版本資訊
+1 dotnet --listsdks </description>
+    </item>
     <item>
       <title>Date Test</title>
       <link>https://raynewu.github.io/posts/date-test/</link>
